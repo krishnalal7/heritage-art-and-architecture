@@ -8,7 +8,7 @@
 <body>
 
 
-<p>In today's digital age, while most things have taken a modern twist, there's an undeniable allure in the remnants of the past. Heritage Art and Architecture, a beacon for traditional interior design, has encapsulated this allure by bringing an exquisite collection of antique or antique-inspired furniture and decor right at your fingertips. Their <a href="https://www.heritageartscochin.com/collections/antique-furniture">Antique Furniture</a> collection is an online treasure trove that promises a journey through time.</p>
+<p>In today's digital age, while most things have taken a modern twist, there's an undeniable allure in the remnants of the past. Heritage Art and Architecture, a beacon for traditional interior design, has encapsulated this allure by bringing an exquisite collection of antique or antique-inspired furniture and decor right at your fingertips. Their <a href="https://www.heritageartscochin.com/antique-furniture">Antique Furniture</a> collection is an online treasure trove that promises a journey through time.</p>
 
 <blockquote>
     <p>"In every piece of furniture, there lies a story of the past; an echo of the craftsmen, the era, and the hands that once cherished it."</p>
@@ -39,7 +39,7 @@
     <p>"Discover timeless beauty with our curated collection. Own a piece of history that adds character and elegance to any setting."</p>
 </blockquote>
 
-<p>So, if you're looking to infuse your spaces with timeless elegance, <a href="https://www.heritageartscochin.com/collections/antique-furniture">explore the treasures</a> that await you at Heritage Art and Architecture's online store.</p>
+<p>So, if you're looking to infuse your spaces with timeless elegance, <a href="https://www.heritageartscochin.com/antique-furniture">explore the treasures</a> that await you at Heritage Art and Architecture's online store.</p>
 
 </body>
 </html>
